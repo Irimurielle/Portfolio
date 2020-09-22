@@ -10,4 +10,5 @@ https://github.com/Irimurielle/Portfolio.git
 * create a repository
 * write your code in visual studio code
 * push your code to the git repository
+### License
 copyright (c) 2020
